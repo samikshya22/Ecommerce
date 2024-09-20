@@ -21,8 +21,8 @@
         <div class="flex">
             <div class="w-56 bg-gray-200 shadow-lg h-screen">
 
-                <img src="https://smc.edu.np/wp-content/uploads/2023/11/smc-arial-view.jpg" class="w-8/12 mx-auto mt-5" alt="">
-
+                <img src="https://png.pngtree.com/template/20190928/ourmid/pngtree-orange-fashion-women-boutique-clothing-beautiful-logo-design-tem-image_312092.jpg" class="w-8/12 mx-auto mt-5" alt="">
+ 
                 <div class="mt-5">
                     <a href="{{route('dashboard')}}" class="block px-2 py-3 text-lg border-l-4 border-blue-600 m-2 hover:bg-gray-300">Dashboard</a>
 
